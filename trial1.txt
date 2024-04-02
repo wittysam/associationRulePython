@@ -1,0 +1,6 @@
+Please enter minimum support(The input should range between 0 to 1): 0.1
+Please enter minimum confidence(The input should range between 0 to 1): 0.66
+The Acceptable Support for Items: 8817
+{38} -> {39} (0.6633111054116441)
+{41} -> {39} (0.7637336901973905)
+{48} -> {39} (0.6916340334638661)
